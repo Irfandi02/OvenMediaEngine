@@ -1,0 +1,12 @@
+package day;
+
+public class day1 {
+
+  public static void main(String[] args) {
+  
+  System.out.println("irfandi");
+  System.out.println("informatika");
+  System.out.println("Nim D0223318");
+  
+  }
+}
